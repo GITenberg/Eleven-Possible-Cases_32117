@@ -1,0 +1,107 @@
+_repo: Eleven-Possible-Cases_32117
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Miller, Joaquin
+    aliases:
+    - Miller, Cincinnatus Hiner
+    - Miller, Cincinnatus Heine
+    birthdate: 1837
+    deathdate: 1913
+    gutenberg_agent_id: '8840'
+    url: http://www.gutenberg.org/2009/agents/8840
+    wikipedia: http://en.wikipedia.org/wiki/Joaquin_Miller
+  - agent_name: Munroe, Kirk
+    birthdate: 1850
+    deathdate: &id003 1930
+    gutenberg_agent_id: '1480'
+    url: http://www.gutenberg.org/2009/agents/1480
+    wikipedia: http://en.wikipedia.org/wiki/Kirk_Munroe
+  - agent_name: Harland, Henry
+    alias: Luska, Sidney
+    birthdate: 1861
+    deathdate: 1905
+    gutenberg_agent_id: '1810'
+    url: http://www.gutenberg.org/2009/agents/1810
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Harland
+  - agent_name: Thompson, Maurice
+    aliases:
+    - Thompson, James Maurice
+    - Thompson, J. Maurice (James Maurice)
+    birthdate: 1844
+    deathdate: 1901
+    gutenberg_agent_id: '1388'
+    url: http://www.gutenberg.org/2009/agents/1388
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Thompson
+  - agent_name: Wheeler, A. C. (Andrew Carpenter)
+    aliases:
+    - Crinkle, Nym
+    - Wheeler, Andrew Carpenter
+    birthdate: 1835
+    deathdate: 1903
+    gutenberg_agent_id: '34194'
+    url: http://www.gutenberg.org/2009/agents/34194
+  - agent_name: Fawcett, Edgar
+    birthdate: &id001 1847
+    deathdate: 1904
+    gutenberg_agent_id: '40849'
+    url: http://www.gutenberg.org/2009/agents/40849
+  - agent_name: Stockton, Frank Richard
+    aliases:
+    - Stockton, Francis Richard
+    - Stockton, Frank R. (Frank Richard)
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '221'
+    url: http://www.gutenberg.org/2009/agents/221
+    wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
+  - agent_name: Fyles, Franklin
+    birthdate: *id001
+    deathdate: 1911
+    gutenberg_agent_id: '35668'
+    url: http://www.gutenberg.org/2009/agents/35668
+  - agent_name: Lockwood, Ingersoll
+    birthdate: 1841
+    gutenberg_agent_id: '9462'
+    url: http://www.gutenberg.org/2009/agents/9462
+  - agent_name: Green, Anna Katharine
+    aliases:
+    - Rohlfs, Mrs. Charles
+    - Rohlfs, Anna Katharine Green
+    birthdate: &id002 1846
+    deathdate: 1935
+    gutenberg_agent_id: '541'
+    url: http://www.gutenberg.org/2009/agents/541
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
+  - agent_name: Smith, Brainard Gardner
+    alias: Smith, Brainard G.
+    birthdate: *id002
+    deathdate: *id003
+    gutenberg_agent_id: '35598'
+    url: http://www.gutenberg.org/2009/agents/35598
+description: ''
+gutenberg_issued: '2010-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: The only girl at Overlook / Franklin Fyles -- A thing that glistened
+  / Frank R. Stockton -- A lion and a lioness / Joaquin Miller -- The cheated Juliet
+  / Q. [Henry Harland] -- The mystic Krewe / Maurice Thompson -- Strange adventures
+  of a million dollars / Ingersoll Lockwood -- A lost day / Edgar Fawcett -- A tragedy
+  of high explosives / Brainard Gardner Smith -- The bushwhacker's gratitude / Kirke
+  Munroe -- The end of all / Nym Crinkle [Andrew C. Wheeler] -- Shall he marry her?
+  / Anna Katharine Green.
+title: Eleven Possible Cases
+url: http://www.gutenberg.org/ebooks/32117
