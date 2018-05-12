@@ -16,7 +16,7 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Joaquin_Miller
   - agent_name: Munroe, Kirk
     birthdate: 1850
-    deathdate: &id003 1930
+    deathdate: 1930
     gutenberg_agent_id: '1480'
     url: http://www.gutenberg.org/2009/agents/1480
     wikipedia: http://en.wikipedia.org/wiki/Kirk_Munroe
@@ -45,7 +45,7 @@ creator:
     gutenberg_agent_id: '34194'
     url: http://www.gutenberg.org/2009/agents/34194
   - agent_name: Fawcett, Edgar
-    birthdate: &id001 1847
+    birthdate: 1847
     deathdate: 1904
     gutenberg_agent_id: '40849'
     url: http://www.gutenberg.org/2009/agents/40849
@@ -59,7 +59,7 @@ creator:
     url: http://www.gutenberg.org/2009/agents/221
     wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
   - agent_name: Fyles, Franklin
-    birthdate: *id001
+    birthdate: 1847
     deathdate: 1911
     gutenberg_agent_id: '35668'
     url: http://www.gutenberg.org/2009/agents/35668
@@ -71,18 +71,20 @@ creator:
     aliases:
     - Rohlfs, Mrs. Charles
     - Rohlfs, Anna Katharine Green
-    birthdate: &id002 1846
+    birthdate: 1846
     deathdate: 1935
     gutenberg_agent_id: '541'
     url: http://www.gutenberg.org/2009/agents/541
     wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
   - agent_name: Smith, Brainard Gardner
     alias: Smith, Brainard G.
-    birthdate: *id002
-    deathdate: *id003
+    birthdate: 1846
+    deathdate: 1930
     gutenberg_agent_id: '35598'
     url: http://www.gutenberg.org/2009/agents/35598
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32117#Eleven-Possible-Cases
 gutenberg_issued: '2010-04-24'
 gutenberg_type: Text
 identifiers:
